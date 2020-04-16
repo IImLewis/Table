@@ -1,0 +1,21 @@
+.table th {
+	background-color: rgb(57, 57, 197);
+    color:#ffffff;
+}
+
+.table .t {
+	background-color: #dfdfdfa4;
+}
+
+.table td, .table th {
+    border:1px solid #ddd;
+}
+
+.table tr:hover {
+    background-color: rgb(186, 205, 223);
+}
+
+.table tr {
+    /*transition: background 0.8s ease-in-out;*/
+    transition: background 0.5s ease-in-out;
+}
